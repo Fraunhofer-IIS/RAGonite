@@ -1,1 +1,0 @@
-This directory will contain all data for the ragonite BTW25 paper.

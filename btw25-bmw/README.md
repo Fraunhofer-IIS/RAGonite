@@ -1,12 +1,6 @@
-Data and code will be released after internal OSS clearance, by 03.03.2025 (before the start of the conference).
+**Note:** Code and data will be released after internal OSS clearance, by 03.03.2025 (before the start of the conference).
 
-Meanwhile, if you have any questions, please send an email to:
-
-rishiraj.saha.roy@iis.fraunhofer.de OR chris.hinze@iis.fraunhofer.de OR joel.schlotthauer@iis.fraunhofer.de
-
-README files for code (`src`) and data (`data`) can be found inside respective directories. Below, we provide a general description of the methodology used in this project.
-
-# Artifacts
+# Publication artifacts
 
 - Code: [src/](src/)
 - Data: [data/](data/)
@@ -15,6 +9,12 @@ README files for code (`src`) and data (`data`) can be found inside respective d
 - Demo video: Coming soon!
 - Screenshots: Coming soon!
 - Manuscript: https://arxiv.org/abs/2412.17690
+
+If you have any questions, please send an email to:
+
+* rishiraj DOT saha DOT roy AT iis DOT fraunhofer DOT de OR
+* chris DOT hinze AT iis DOT fraunhofer DOT de OR
+* joel DOT schlotthauer AT iis DOT fraunhofer DOT de
 
 # Project overview
 
@@ -129,4 +129,4 @@ The complete code for our RAGONITE software cannot be released as per organizati
 
 ## Summary
 
-In this README, We explain RAGONITE, a transparent RAG pipeline that adopts a novel alternative approach to ConvQA over KGs by iterative retrieval and merging results of structured and unstructured querying. While Text2SPARQL has been investigated in the past, we adopt a novel alternative of exploiting Text2SQL, where LLMs do much better, over a DB that is programmatically induced from the KG. By converting a KG to its verbalized form that is indexed as a vector DB, we show that the information in knowledge graphs can be useful for more abstract intents as well. RAGONITE contains an agentic workflow: key future work would enhance this further by incorporating reflection mechanisms that enable each module to critique and improve its output, without compromising efficiency. Another direction would be to fine-tune specific pipeline components for a RAG setting with synthetic data.
+In this article, we explain RAGONITE, a transparent RAG pipeline that adopts a novel alternative approach to ConvQA over KGs by iterative retrieval and merging results of structured and unstructured querying. While Text2SPARQL has been investigated in the past, we adopt a novel alternative of exploiting Text2SQL, where LLMs do much better, over a DB that is programmatically induced from the KG. By converting a KG to its verbalized form that is indexed as a vector DB, we show that the information in knowledge graphs can be useful for more abstract intents as well. RAGONITE contains an agentic workflow: key future work would enhance this further by incorporating reflection mechanisms that enable each module to critique and improve its output, without compromising efficiency. Another direction would be to fine-tune specific pipeline components for a RAG setting with synthetic data.
