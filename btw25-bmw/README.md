@@ -8,9 +8,13 @@ README files for code (`src`) and data (`data`) can be found inside respective d
 
 # Artifacts
 
+- Code: src/
+- Data: data/
 - [Poster](artifacts/2025-02-13-poster-btw.pdf)
 - Slides: Coming soon!
 - Demo video: Coming soon!
+- Screenshots: Coming soon!
+- Manuscript: https://arxiv.org/abs/2412.17690
 
 # Project overview
 
@@ -56,7 +60,7 @@ Answer 5: No, BMW Coupe models are generally lower in height compared to the BMW
 
 A key feature of this work is the derivation of a database from an RDF KG as follows.
 
-**Inducing schema** KGs are often stored in a plain [RDF NTriples format])(https://www.w3.org/TR/n-triples/). This means that it is stored as a flat set of facts that are SPO triples, where subjects are entities (like bmw-x6-m-competition, bmw-ix1-edrive20-sport, or adaptive-LED-headlights), predicates are relations (like engine-specification, wheelbase, or price), and objects are types (like car, engine and equipment) or literals (constants like 37450 EUR, 2760 mm or 250 kWh). We first convert the KG from Ntriples into [RDF Turtle format](https://www.w3.org/TR/turtle/) (see Figure 3), that encapsulates all facts of a specific subject entity (i.e. for grouping relevant facts that share the same subject, to induce some coherence into the flat set of facts). We identify unique entity types based on the values of the type predicate. For each entity type a table is added to the database. The subject entity is used as the primary key and each literal value is added as a column (e.g. "price" or "height" are added to the "car" table). Next, the relations between entity types are analyzed. For each 1:1 or 1:N relation between entity types A and B, a column is added to the entity table B that contains a foreign key which points to table A. For N:M relations, an additional table is added to the database which contains two columns with foreign keys.
+**Inducing schema** KGs are often stored in a plain [RDF NTriples format](https://www.w3.org/TR/n-triples/). This means that it is stored as a flat set of facts that are SPO triples, where subjects are entities (like bmw-x6-m-competition, bmw-ix1-edrive20-sport, or adaptive-LED-headlights), predicates are relations (like engine-specification, wheelbase, or price), and objects are types (like car, engine and equipment) or literals (constants like 37450 EUR, 2760 mm or 250 kWh). We first convert the KG from Ntriples into [RDF Turtle format](https://www.w3.org/TR/turtle/) (see Figure 3), that encapsulates all facts of a specific subject entity (i.e. for grouping relevant facts that share the same subject, to induce some coherence into the flat set of facts). We identify unique entity types based on the values of the type predicate. For each entity type a table is added to the database. The subject entity is used as the primary key and each literal value is added as a column (e.g. "price" or "height" are added to the "car" table). Next, the relations between entity types are analyzed. For each 1:1 or 1:N relation between entity types A and B, a column is added to the entity table B that contains a foreign key which points to table A. For N:M relations, an additional table is added to the database which contains two columns with foreign keys.
 
 ![Figure illustrating RDF Turtle](images/kg-snippet.png)
 *Figure 3: Knowledge graph snippet as Turtle RDF.*
