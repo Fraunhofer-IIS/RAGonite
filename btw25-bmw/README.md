@@ -8,8 +8,8 @@ README files for code (`src`) and data (`data`) can be found inside respective d
 
 # Artifacts
 
-- Code: src/
-- Data: data/
+- Code: [src/](src/)
+- Data: [data/](data/)
 - [Poster](artifacts/2025-02-13-poster-btw.pdf)
 - Slides: Coming soon!
 - Demo video: Coming soon!

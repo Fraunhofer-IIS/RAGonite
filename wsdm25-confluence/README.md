@@ -8,8 +8,8 @@ README files for code (`src`) and ConfQuestions (`data`) can be found inside res
 
 # Artifacts
 
-- Code: src/
-- ConfQuestions: data/
+- Code: [src/](src/)
+- ConfQuestions: [data/](data/)
 - Poster: [artifacts/2025-02-13-poster-wsdm.pdf](artifacts/2025-02-13-poster-wsdm.pdf)
 - Slides: Coming soon!
 - Demo video: Coming soon!
