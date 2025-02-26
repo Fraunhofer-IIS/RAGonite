@@ -5,7 +5,7 @@
 - Code: [src/](src/)
 - Data: [data/](data/)
 - Poster: [artifacts/poster-btw.pdf](artifacts/poster-btw.pdf)
-- Slides: [artifacts/poster-btw.pdf](artifacts/slides-btw.pdf)
+- Slides: [artifacts/slides-btw.pdf](artifacts/slides-btw.pdf)
 - Demo video: Coming soon!
 - Screenshots: Coming soon!
 - Manuscript: https://arxiv.org/abs/2412.17690
