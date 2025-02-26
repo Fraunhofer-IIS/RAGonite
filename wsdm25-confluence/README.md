@@ -4,8 +4,8 @@
 
 - Code: [src/](src/)
 - ConfQuestions: [data/](data/)
-- Poster: [artifacts/2025-02-13-poster-wsdm.pdf](artifacts/2025-02-13-poster-wsdm.pdf)
-- Slides: Coming soon!
+- Poster: [artifacts/poster-wsdm.pdf](artifacts/poster-wsdm.pdf)
+- Slides: [artifacts/poster-wsdm.pdf](artifacts/slides-wsdm.pdf)
 - Demo video: Coming soon!
 - Screenshots: Coming soon!
 - Manuscript: https://arxiv.org/abs/2412.10571v3

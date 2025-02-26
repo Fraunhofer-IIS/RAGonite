@@ -4,8 +4,8 @@
 
 - Code: [src/](src/)
 - Data: [data/](data/)
-- [Poster](artifacts/2025-02-13-poster-btw.pdf)
-- Slides: Coming soon!
+- Poster: [artifacts/poster-btw.pdf](artifacts/poster-btw.pdf)
+- Slides: [artifacts/poster-btw.pdf](artifacts/slides-btw.pdf)
 - Demo video: Coming soon!
 - Screenshots: Coming soon!
 - Manuscript: https://arxiv.org/abs/2412.17690
