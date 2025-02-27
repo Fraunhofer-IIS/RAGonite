@@ -1,0 +1,117 @@
+conversion:
+  strip_uri_prefixes:
+    - "http://iais.fraunhofer.de/bmw/"
+    - "https://schema.org/"
+    - "http://"
+
+  table_aliases:
+    "Car-Product-Vehicle": "car_variant"
+    "Car-CarModel-Product-Vehicle": "base_car"
+    "EngineSpecification": "engine"
+    "fuelType": "fuel_type"
+    "Product": "equipment"
+    "equipmentCategory": "equipment_category"
+
+  relation_key_aliases:
+    "carVariantToBaseCar": "baseCarId"
+    "engineToFuelType": "fuelTypeId"
+    "carVariantToEngine": "engineId"
+
+  table_field_comments:
+    "base_car":
+      "name": "e.g. 'BMW X1', 'BMW X3', 'BMW X7', ..."
+      #"price": "in euros" # actually pounds
+    "equipment_category":
+      "name": "e.g. 'Chassis', 'Driver Assistance', 'Interior', ..."
+    "equipment":
+      "name": "e.g. 'Leather steering wheel'"
+    "fuel_type":
+      "name": "either 'diesel', 'gasoline', 'electric' or 'plug-in-hybrid'"
+    "car_variant":
+      "height": "in millimeters"
+      "length": "in millimeters"
+      "name": "e.g. 'BMW X1 sDrive18d Sport'"
+      "price": "in euros" # actually pounds
+      "wheelbase": "in millimeters"
+      "width": "in millimeters"
+    "engine":
+      "driveType": "either 'Front-wheel drive', 'Rear-wheel drive' or 'All-wheel drive'"
+      "chargingTimeAC": "in minutes"
+      "chargingTimeDC": "in minutes"
+      "maxChargingPerformanceAC": "in kilowatts (kW)"
+      "maxChargingPerformanceDC": "in kilowatts (kW)"
+      "emissionsCO2WltpMin": "min co2 emissions in in grams per kilometer (g/km)"
+      "emissionsCO2WltpMax": "max co2 emissions in in grams per kilometer (g/km)"
+      "fuelConsumptionWLTPMin": "min fuel consumption in liters per 100 kilometers (l/100km)"
+      "fuelConsumptionWLTPMax": "max fuel consumption in liters per 100 kilometers (l/100km)"
+      "accelerationTime": "in seconds"
+      "enginePower": "in kilowatts (kW)"
+      "electricRangeWltpMin": "min electric range in kilometers (km)"
+      "electricRangeWltpMax": "max electric range in kilometers (km)"
+      "energyConsumptionWltpMin": "min energy consumption in kilowatthours per 100 kilometers (kWh/100km)"
+      "energyConsumptionWltpMax": "max energy consumption in kilowatthours per 100 kilometers (kWh/100km)"
+      "batteryCapacityGross": "in kilowatthours (kWh)"
+      "batteryCapacityNet": "in kilowatthours (kWh)"
+
+  ignore_table_fields:
+    #"base_car": ["label", "height", "length", "wheelbase", "width"]
+    "base_car": ["label", "price"]
+    "equipment": ["label"]
+    "fuel_type": ["label"]
+    "car_variant": ["label"]
+
+  table_field_aliases:
+    "equipment_category":
+      "label": "name"
+    "engine":
+      "WLTPCO2EmissioncombinedMin": "emissionsCO2WltpMin"
+      "WLTPCO2EmissioncombinedMax": "emissionsCO2WltpMax"
+      "WLTPConsumptioncombinedMin": "fuelConsumptionWLTPMin"
+      "WLTPConsumptioncombinedMax": "fuelConsumptionWLTPMax"
+      "acceleration062mph": "accelerationTime"
+      "enginePerformance": "enginePower"
+      "WLTPElectricRangecombinedMin": "electricRangeWltpMin"
+      "WLTPElectricRangecombinedMax": "electricRangeWltpMax"
+      "WLTPEnergyConsumptioncombinedMin": "energyConsumptionWltpMin"
+      "WLTPEnergyConsumptioncombinedMax": "energyConsumptionWltpMax"
+      "batterySizegrossnetMin": "batteryCapacityGross"
+      "batterySizegrossnetMax": "batteryCapacityNet"
+
+  triple_filters:
+    - type: remove_unit
+      predicates: ["height", "length", "width", "wheelbase"]
+      unit: "mm"
+    - type: remove_unit
+      predicates: ["acceleration062mph"]
+      unit: "s"
+    - type: remove_unit
+      predicates: ["enginePerformance", "maxChargingPerformanceDC", "maxChargingPerformanceAC"]
+      unit: "kW"
+    - type: remove_unit
+      predicates: ["chargingTimeAC"]
+      parse_time: True
+      unit: "h"
+    - type: remove_unit
+      predicates: ["chargingTimeDC"]
+      parse_time: True
+      remove_prefix: ".. min / "
+      unit: "h"
+    - type: drop
+      predicates: ["identifier", "benefitInKind", "category", "equipmentCategory"]
+    - type: split_range
+      predicates: ["WLTPCO2Emissioncombined"]
+      unit: "g/km"
+    - type: split_range
+      predicates: ["WLTPConsumptioncombined"]
+      parse_german_number: False
+      unit: "l/100km"
+    - type: split_range
+      predicates: ["WLTPElectricRangecombined"]
+      unit: "km"
+    - type: split_range
+      predicates: ["WLTPEnergyConsumptioncombined"]
+      unit: "kWh/100km"
+    - type: split_range
+      predicates: ["batterySizegrossnet"]
+      seperators: ["/"]
+      unit: "kWh"
