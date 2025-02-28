@@ -1,1 +1,1 @@
-Data release is pending internal clearance. The test questions and evaluation results can be found in this directory.
+The BMW KG release is pending internal clearance. Meanwhile, the test questions and evaluation results can already be found in this directory.
