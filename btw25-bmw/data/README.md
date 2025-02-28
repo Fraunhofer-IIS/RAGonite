@@ -1,1 +1,1 @@
-Data will be released after internal OSS clearance, by 03.03.2025 (before the start of the conference).
+Data release is pending internal clearance. The test questions and evaluation results can be found in this directory.
