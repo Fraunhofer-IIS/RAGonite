@@ -31,10 +31,3 @@ Launch the RAG-based chatbot:
 ```bash
 python src/start_rag.py
 ```
-
----
-
-### 📌 Additional Enhancements:
-- **Add a banner/logo** at the top if you have one.  
-- **Use emojis** to make sections stand out.  
-- **Consider adding a GIF or screenshot** of the chatbot in action.  
