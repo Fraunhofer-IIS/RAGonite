@@ -5,7 +5,7 @@
 - Poster: [artifacts/poster-wsdm.pdf](artifacts/poster-wsdm.pdf)
 - Slides: [artifacts/slides-wsdm.pdf](artifacts/slides-wsdm.pdf)
 - Demo video: Coming soon!
-- Screenshots: Coming soon!
+- Screenshots: [artifacts/screenshots](artifacts/screenshots/)
 - Manuscript: https://arxiv.org/abs/2412.10571v3
 
 If you have any questions, please send an email to:

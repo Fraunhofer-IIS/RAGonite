@@ -5,7 +5,7 @@
 - Poster: [artifacts/poster-btw.pdf](artifacts/poster-btw.pdf)
 - Slides: [artifacts/slides-btw.pdf](artifacts/slides-btw.pdf)
 - Demo video: Coming soon!
-- Screenshots: Coming soon!
+- Screenshots: [artifacts/screenshots](artifacts/screenshots/)
 - Manuscript: https://arxiv.org/abs/2412.17690
 
 If you have any questions, please send an email to:
