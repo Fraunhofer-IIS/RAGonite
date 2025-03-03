@@ -1,0 +1,9 @@
+{
+    "id": "confluence-106",
+    "title": "HMX: Hypervisor-Mediated data eXchange",
+    "url": "https://openxt.atlassian.net/wiki/spaces/DC/pages/1770422298/HMX:+Hypervisor-Mediated+data+eXchange",
+    "content": "<p>Owned by Christopher Clark\nLast updated: Dec 23, 2020 by Christopher Clark\n\n</p><ac:structured-macro ac:macro-id=\"673fd112-39d1-4cc3-a264-7d7cc1102bd1\" ac:name=\"children\" ac:schema-version=\"2\" data-layout=\"default\"><ac:parameter ac:name=\"all\">true</ac:parameter></ac:structured-macro><ul><li><p><a href=\"https://wiki.xenproject.org/wiki/Argo:_Hypervisor-Mediated_Exchange_(HMX)_for_Xen\">Argo and HMX documentation on the Xen Project Wiki</a></p></li></ul><p></p>",
+    "date": "2024-11-15",
+    "disclaimer": "Users of this benchmark dataset are advised to check Atlassian’s official documentation for the most current information.",
+    "space": "DC"
+}

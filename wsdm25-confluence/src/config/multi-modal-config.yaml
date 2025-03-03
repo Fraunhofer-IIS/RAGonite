@@ -1,0 +1,17 @@
+multi_modal_config:
+  modalities:  # Options are: ["all", "none", "table", "list"]    # "none" means passages here
+    - all
+  verbalizer_config:
+    # Options are: ["all", "none", "entity_title", "preceding_heading",
+    # "page_title", "ctx_before", "ctx_after"]
+    context_mode:
+      - all
+    # Options are: ["element", "entity", "all"] | entity:
+    # e.g. "Table" | element: e.g. "Table-Row"
+    # element means row-wise, entity means table-wise, all means both
+    granularity:
+      - all
+    mode: # Options are: ["verbalization", "piped", "markdown", "html", "plaintext"]
+      - verbalization
+    embed_original_content: False
+    

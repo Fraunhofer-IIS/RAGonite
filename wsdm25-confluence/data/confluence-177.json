@@ -1,0 +1,9 @@
+{
+    "id": "confluence-177",
+    "title": "Building - Version 10 and later (and earlier)",
+    "url": "https://openxt.atlassian.net/wiki/spaces/OD/pages/2409037825/Building+-+Version+10+and+later+(and+earlier)",
+    "content": "<p>Owned by Jason Andryuk\nLast updated: Jun 08, 2021 by Jason Andryuk\n\n</p><p>Bordel is the preferred tool.  Please see the instructions here: <a data-card-appearance=\"inline\" href=\"https://github.com/OpenXT/bordel\">https://github.com/OpenXT/bordel</a> <br/></p><p>Earlier versions can also be built with bordel, but OpenXT after stable-9 is only supported with bordel.</p>",
+    "date": "2024-11-15",
+    "disclaimer": "Users of this benchmark dataset are advised to check Atlassian’s official documentation for the most current information.",
+    "space": "OD"
+}
