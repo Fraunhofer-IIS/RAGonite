@@ -1,1 +1,1 @@
-The ConfQuestions benchmark data will be released after internal OSS clearance, by 10.03.2025 (before the start of the conference).
+This directory contains the ConfQuestions benchmark, that can be used for evaluating RAG-based conversational question answering. The questions, answers, and other metadata can be found in confluence-000-convqa-benchmark.json. The document collection consists of JSON files confluence-001.json through confluence-215.json, each file corresponding to one of the 215 Confluence pages used in our study.
