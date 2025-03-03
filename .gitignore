@@ -13,8 +13,13 @@ env_*
 *.pickle
 MAIN_WRITELOCK
 
-/data/db
-/.benchmarks
-/.pytest_cache
-/indexdir
-/out
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+/wsdm25-confluence/data/db
+/wsdm25-confluence/.benchmarks
+/wsdm25-confluence/.pytest_cache
+/wsdm25-confluence/indexdir
+/wsdm25-confluence/out
