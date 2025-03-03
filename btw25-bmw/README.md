@@ -1,5 +1,3 @@
-**Note:** Code and data will be released after internal OSS clearance, by 03.03.2025 (before the start of the conference).
-
 # Publication artifacts
 
 - Code: [src/](src/)

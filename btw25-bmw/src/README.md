@@ -1,1 +1,1 @@
-Parts of the code will be released after internal OSS clearance, by 03.03.2025 (before the start of the conference).
+The code for this work currently consists of the automatic knowledge graph to database induction script, and the script for verbalizing a KG in RDF Turtle format to natural language passages. More code for the pipeline will be released over the coming weeks.
