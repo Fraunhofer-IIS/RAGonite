@@ -1,0 +1,9 @@
+{
+    "id": "confluence-201",
+    "title": "Release Candidates",
+    "url": "https://openxt.atlassian.net/wiki/spaces/TEST/pages/58720272/Release+Candidates",
+    "content": "<p>Owned by MagOXT\nLast updated: Sep 26, 2016 by MagOXT\n\n</p><table><colgroup><col/><col/><col/></colgroup><tbody><tr><th>Release Candidate</th><th>Link</th><th>Date</th></tr><tr><td colspan=\"1\">6.0.0-RC1</td><td colspan=\"1\"><a href=\"http://openxt.ainfosec.com/releases/6.0.0-rc1/\">http://openxt.ainfosec.com/releases/6.0.0-rc1/</a></td><td colspan=\"1\"><div class=\"content-wrapper\"><p><time datetime=\"2016-07-21\"></time> </p></div></td></tr><tr><td colspan=\"1\">6.0.0-RC2</td><td colspan=\"1\"><a href=\"http://openxt.ainfosec.com/releases/6.0.0-rc2/\">http://openxt.ainfosec.com/releases/6.0.0-rc2/</a></td><td colspan=\"1\"><div class=\"content-wrapper\"><p><time datetime=\"2016-08-05\"></time> </p></div></td></tr><tr><td colspan=\"1\">6.0.0-RC3</td><td colspan=\"1\"><a href=\"http://openxt.ainfosec.com/releases/6.0.0-rc3/\">http://openxt.ainfosec.com/releases/6.0.0-rc3/</a></td><td colspan=\"1\"><div class=\"content-wrapper\"><p><time datetime=\"2016-08-12\"></time> </p></div></td></tr><tr><td colspan=\"1\">6.0.0-RC4</td><td colspan=\"1\"><a href=\"http://openxt.ainfosec.com/releases/6.0.0-rc4/\">http://openxt.ainfosec.com/releases/6.0.0-rc4/</a></td><td colspan=\"1\"><div class=\"content-wrapper\"><p><time datetime=\"2016-09-13\"></time> </p></div></td></tr></tbody></table>",
+    "date": "2024-11-15",
+    "disclaimer": "Users of this benchmark dataset are advised to check Atlassian’s official documentation for the most current information.",
+    "space": "TEST"
+}

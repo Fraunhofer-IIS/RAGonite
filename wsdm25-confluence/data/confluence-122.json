@@ -1,0 +1,9 @@
+{
+    "id": "confluence-122",
+    "title": "How to build OpenXT",
+    "url": "https://openxt.atlassian.net/wiki/spaces/OD/pages/10747922/How+to+build+OpenXT",
+    "content": "<p>Owned by Danielle Cummings\nLast updated: Apr 14, 2016 by Jed\n\n</p><p>There are several different sets of binaries that can be built:</p><ol><li>The core build, which produces a platform installer ISO and many additional binary packages and related files.<ol><li>Version 5 and earlier requires a 32 bit Debian Squeeze machine, and takes about 6 hours and 150GB of disk space.</li><li>Version 6 and later requires a 64 bit Debian Jessie machine, and takes about 5 hours and 100GB of disk space.</li></ol></li><li>The Debian guest tools</li><li>The CentOS guest tools and SyncXT server RPMs, which requires a CentOS 6 machine.</li><li>The Windows tools build, which requires a Windows machine/VM, the Microsoft Device Driver Kit (DDK), Visual Studio and more.</li></ol><p> </p><p><ac:structured-macro ac:macro-id=\"682fb21b-c965-4a39-b7f4-d30d2505c932\" ac:name=\"children\" ac:schema-version=\"2\"><ac:parameter ac:name=\"style\">h2</ac:parameter></ac:structured-macro></p>",
+    "date": "2024-11-15",
+    "disclaimer": "Users of this benchmark dataset are advised to check Atlassian’s official documentation for the most current information.",
+    "space": "OD"
+}

@@ -1,0 +1,9 @@
+{
+    "id": "confluence-078",
+    "title": "OpenXT Platform Security Architecture [ DRAFT ] [ xtopher-v2 ]",
+    "url": "https://openxt.atlassian.net/wiki/spaces/~cclark/pages/29327380/OpenXT+Platform+Security+Architecture+[+DRAFT+]+[+xtopher-v2+]",
+    "content": "<p>Owned by Christopher Clark\nLast updated: Mar 23, 2016 by Christopher Clark\n\n</p><p><span style=\"color: rgb(255,0,0);\">&lt;&lt; To be written. &gt;&gt;</span></p><p><span style=\"color: rgb(255,0,0);\"><br/><span style=\"color: rgb(0,0,0);\"> </span></span></p><h2><span style=\"color: rgb(0,0,0);\">License of this Document</span></h2><p><span style=\"color: rgb(255,0,0);\"><span style=\"color: rgb(0,0,0);\"> </span></span></p><ac:structured-macro ac:macro-id=\"80a07b43-9860-46d3-8f20-bfb0df11cea0\" ac:name=\"info\" ac:schema-version=\"1\"><ac:parameter ac:name=\"icon\">None</ac:parameter><ac:rich-text-body><p><ac:image><ri:attachment ri:filename=\"CC-BY-NC-ND-88x31.png\"></ri:attachment></ac:image></p><p>Copyright 2016 by individual contributors. This work is licensed under the Creative Commons Attribution Non-Commercial No-Derivatives 4.0 International License. To view a copy of this license, visit <a href=\"https://creativecommons.org/licenses/by-nc-nd/4.0/\">https://creativecommons.org/licenses/by-nc-nd/4.0/</a>.</p></ac:rich-text-body></ac:structured-macro><p><span style=\"color: rgb(255,0,0);\"><span style=\"color: rgb(0,0,0);\"> </span></span></p><p> </p><p><span style=\"color: rgb(255,0,0);\"><span style=\"color: rgb(0,0,0);\"> </span></span></p>",
+    "date": "2024-11-15",
+    "disclaimer": "Users of this benchmark dataset are advised to check Atlassian’s official documentation for the most current information.",
+    "space": "~cclark"
+}

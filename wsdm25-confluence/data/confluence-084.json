@@ -1,0 +1,9 @@
+{
+    "id": "confluence-084",
+    "title": "OpenXT UEFI/SecureBoot support",
+    "url": "https://openxt.atlassian.net/wiki/spaces/CS/pages/274956291/OpenXT+UEFI/SecureBoot+support",
+    "content": "<p>Owned by turnerr@ainfosec.com\nLast updated: Nov 30, 2017 by turnerr@ainfosec.com\n\n</p><p><ac:structured-macro ac:macro-id=\"0ede8e3c-b6b7-4d8f-879d-5a5a3aeebb96\" ac:name=\"view-file\" ac:schema-version=\"1\"><ac:parameter ac:name=\"name\"><ri:attachment ri:filename=\"UEFI-SecureBoot.pdf\" ri:version-at-save=\"1\"></ri:attachment></ac:parameter><ac:parameter ac:name=\"height\">250</ac:parameter></ac:structured-macro></p>",
+    "date": "2024-11-15",
+    "disclaimer": "Users of this benchmark dataset are advised to check Atlassian’s official documentation for the most current information.",
+    "space": "CS"
+}

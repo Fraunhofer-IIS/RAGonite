@@ -1,0 +1,9 @@
+{
+    "id": "confluence-057",
+    "title": "RFC Template",
+    "url": "https://openxt.atlassian.net/wiki/spaces/~cclark/pages/39256068/RFC+Template",
+    "content": "<p>Owned by Christopher Clark\nLast updated: May 25, 2016 by Christopher Clark\n\n</p><p>** DRAFT **</p><p> </p><p>===<br/>Summary:</p><p> </p><p>===<br/>Description:</p><ul><li>Motivation. Problem statements.</li><li>Summary of proposed changes.</li><li>This change enables ...</li></ul><p>===<br/>Owner:<br/><br/>Email address for contact:<br/>Official email address for attribution:<br/><br/>===<br/>Current <span class=\"il\">Status</span>:</p><p>[ Not started | Plan exists | Prototype exists | Feature Complete | QA verified ]<br/><br/>===<br/>Benefit to OpenXT:</p><p> </p><p>===<br/>Security Impact:</p><p> </p><p>===<br/>Upstream Plan:</p><p><br/>===<br/>Scope:<br/><br/>===<br/>How to test:<br/><br class=\"il\"/>===<br/>User experience:<br/><br/>===<br/>Dependencies:<br/><br/>===<br/>Release Notes:<br/><br/>===<br/>References:<br/><br/></p>",
+    "date": "2024-11-15",
+    "disclaimer": "Users of this benchmark dataset are advised to check Atlassian’s official documentation for the most current information.",
+    "space": "~cclark"
+}
