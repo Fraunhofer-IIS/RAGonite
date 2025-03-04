@@ -193,6 +193,10 @@ class Attribution:
         embedding_counterfactual = embed_text(counterfactual_answer)
 
         # Normalize the embeddings to unit length
+        # original work at https://arxiv.org/pdf/2412.10571
+        # used JinaAI embeddings
+        # (https://huggingface.co/jinaai/jina-embeddings-v3)
+        # but here we use OpenAI functions for simplicity
         embedding_answer = embedding_answer / np.linalg.norm(embedding_answer)
         embedding_counterfactual = embedding_counterfactual / np.linalg.norm(
             embedding_counterfactual
