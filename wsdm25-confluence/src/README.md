@@ -22,6 +22,8 @@ Ensure you have an OpenAI API key ready:
 ### 1️⃣ Prepare the Dataset  
 Run the following command to prepare the dataset using the default configuration.  
 (You can customize settings in `src/config/multi-modal-config.yaml`.)  
+
+**Important note:** This only needs to be done **once** to set up the VectorDB.
 ```bash
 python src/prepare.py --config src/config/multi-modal-config.yaml
 ```
