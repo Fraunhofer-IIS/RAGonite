@@ -4,7 +4,7 @@
 - ConfQuestions: [data/](data/)
 - Poster: [artifacts/poster-wsdm.pdf](artifacts/poster-wsdm.pdf)
 - Slides: [artifacts/slides-wsdm.pdf](artifacts/slides-wsdm.pdf)
-- Demo video: Coming soon!
+- Demo video: https://vimeo.com/1062528117?share=copy#t=0
 - Screenshots: [artifacts/screenshots](artifacts/screenshots/)
 - Manuscript: https://arxiv.org/abs/2412.10571v3
 
