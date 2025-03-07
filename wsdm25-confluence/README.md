@@ -1,7 +1,7 @@
 # Publication artifacts
 
 - Code: [src/](src/)
-- ConfQuestions: [data/](data/)
+- Data: [confquestions/](ConfQuestions/)
 - Poster: [artifacts/poster-wsdm.pdf](artifacts/poster-wsdm.pdf)
 - Slides: [artifacts/slides-wsdm.pdf](artifacts/slides-wsdm.pdf)
 - Demo video: https://vimeo.com/1062528117?share=copy#t=0
@@ -48,7 +48,7 @@ Answer 5: No
 - We demonstrate RAGONITE, a new RAG system that concatenates page titles, headings, and surrounding text to raw contents of evidences for better retrieval and answering;
 - We compute counterfactual attribution distributions over retrieved evidences as causal explanations for answers;
 - We bring tables under RAGonite’s scope by linearizing each record (row) via verbalization and similar techniques;
-- We create ConfQuestions, a benchmark with 300 conversational questions for evaluating RAG-based heterogeneous QA. The benchmark and all other artifacts for this work are public at https://github.com/Fraunhofer-IIS/RAGonite.
+- We release ConfQuestions, a benchmark with 300 conversational questions for evaluating RAG-based heterogeneous QA.
 
 ## System outline
 
