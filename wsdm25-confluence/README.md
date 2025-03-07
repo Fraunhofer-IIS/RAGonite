@@ -1,7 +1,7 @@
 # Publication artifacts
 
 - Code: [src/](src/)
-- Data: [confquestions/](ConfQuestions/)
+- Data: [confquestions/](confquestions/)
 - Poster: [artifacts/poster-wsdm.pdf](artifacts/poster-wsdm.pdf)
 - Slides: [artifacts/slides-wsdm.pdf](artifacts/slides-wsdm.pdf)
 - Demo video: https://vimeo.com/1062528117?share=copy#t=0
