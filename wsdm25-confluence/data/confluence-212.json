@@ -1,9 +1,0 @@
-{
-    "id": "confluence-212",
-    "title": "Community Call - July 23 2015",
-    "url": "https://openxt.atlassian.net/wiki/spaces/CS/pages/11599881/Community+Call+-+July+23+2015",
-    "content": "<p>Owned by Chris Patterson\nLast updated: Jul 23, 2015 by Chris Patterson\n\n</p><h2>Dial-In Information</h2><p>July 23, 2015 at 1:00PM (EDT)</p><p>Dial-in number: 857-216-2410</p><p>PIN: 86838</p><h2>Agenda</h2><p>Introductions</p><p>What are folks using OpenXT for?</p><p>OpenXT Versioning: Everything is just 4.0.0?!?</p><p>Jed: Quick overview and status of my partial rewrite of the vusb daemon (<a href=\"https://github.com/jean-edouard/vusb-daemon\">https://github.com/jean-edouard/vusb-daemon</a>)</p><p>Eric: Update on Linux 3.18 upgrade.</p><p>Kevin: RFC and PR Ratification, when and how are topics approved for consideration/inclusion?</p><p>Rich:</p><p> - Change future call times to 8 AM Pacific / 11 AM Eastern / 4 PM UK to accomodate UK/European attendees.  </p><p> - Policy on copyright attribution for new files and existing files</p><p>...</p><p>Future topics?</p><h2>Meeting Notes</h2><p><span style=\"color: rgb(0,0,0);\"><br/></span></p><h2>Action Items</h2><p>Rich: (1) RFC for code contributions, (2) Confluence page for all RFCs and lifecycle stages</p><p>Chris: RFC for requesting version bumps / branching</p><p>Phil: <span style=\"color: rgb(0,0,0);\">Change future call times to 8 AM Pacific / 11 AM Eastern</span></p><h2>Attendees</h2><p>Phil White - AIS<br/>Kyle Temkin - AIS<br/>Rian Quinn - AIS<br/>Chris Patterson - AIS<br/>Brendan Kerrigan - AIS<br/>Eric Chanudet - AIS<br/>Jed Lejosne - AIS<br/>Rich Persaud - Personal<br/>Earl Wong - BAH<br/>Philip Tricca - Personal<br/>Kevin Pearson - AFRL</p><p> </p>",
-    "date": "2024-11-15",
-    "disclaimer": "Users of this benchmark dataset are advised to check Atlassian’s official documentation for the most current information.",
-    "space": "CS"
-}

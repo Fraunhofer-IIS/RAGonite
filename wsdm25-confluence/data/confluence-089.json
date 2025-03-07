@@ -1,9 +1,0 @@
-{
-    "id": "confluence-089",
-    "title": "Working in OpenXT",
-    "url": "https://openxt.atlassian.net/wiki/spaces/DC/pages/24707077/Working+in+OpenXT",
-    "content": "<p>Owned by Ross Philipson\nLast updated: Feb 24, 2016 by Ross Philipson\n\n</p><p>Instructions for working in the OpenXT OpenEmbedded environments and containers.</p><p><strong>NOTE:</strong> There are significant differences between working in version 6 and later vs. version 5 and earlier. The information has been split into two sub pages.</p>",
-    "date": "2024-11-15",
-    "disclaimer": "Users of this benchmark dataset are advised to check Atlassian’s official documentation for the most current information.",
-    "space": "DC"
-}

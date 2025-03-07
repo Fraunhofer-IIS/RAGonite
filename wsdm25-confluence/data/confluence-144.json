@@ -1,9 +1,0 @@
-{
-    "id": "confluence-144",
-    "title": "Ross Philipson’s Home",
-    "url": "https://openxt.atlassian.net/wiki/spaces/~rphilipson/pages/13795330/Ross+Philipson’s+Home",
-    "content": "<p>Owned by Ross Philipson\nLast updated: Sep 02, 2015 by Ross Philipson\n\n</p>\n<ac:layout><ac:layout-section ac:type=\"single\"><ac:layout-cell>\n<h4>About Me (Ross Philipson)</h4><p>You may edit this page to include additional information about yourself.</p><p>E-mail: ross.philipson@gmail.com</p></ac:layout-cell></ac:layout-section><ac:layout-section ac:type=\"two_right_sidebar\"><ac:layout-cell>\n<p><ac:structured-macro ac:macro-id=\"2b22bd72-c298-4033-915b-87e566f13600\" ac:name=\"recently-updated\" ac:schema-version=\"1\"></ac:structured-macro></p></ac:layout-cell><ac:layout-cell>\n<h2>Navigate space</h2><p><ac:structured-macro ac:macro-id=\"b0736439-4006-4e70-897d-ccd259fbf838\" ac:name=\"pagetreesearch\" ac:schema-version=\"1\"></ac:structured-macro></p><p><ac:structured-macro ac:macro-id=\"28f9f67b-8fd2-450b-a88b-f0ddc9777db3\" ac:name=\"pagetree\" ac:schema-version=\"1\"></ac:structured-macro></p></ac:layout-cell></ac:layout-section><ac:layout-section ac:type=\"single\"><ac:layout-cell>\n<p> </p></ac:layout-cell></ac:layout-section></ac:layout>",
-    "date": "2024-11-15",
-    "disclaimer": "Users of this benchmark dataset are advised to check Atlassian’s official documentation for the most current information.",
-    "space": "~rphilipson"
-}

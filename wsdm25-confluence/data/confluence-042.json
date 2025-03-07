@@ -1,9 +1,0 @@
-{
-    "id": "confluence-042",
-    "title": "Christopher Clark’s Home",
-    "url": "https://openxt.atlassian.net/wiki/spaces/~cclark/pages/27033611/Christopher+Clark’s+Home",
-    "content": "<p>Owned by Christopher Clark\nLast updated: May 12, 2016 by Christopher Clark\n\n</p><ac:layout><ac:layout-section ac:type=\"single\"><ac:layout-cell><h4>About Me (Christopher Clark)</h4><p>Christopher Clark is a consultant with BAE Systems working on the OpenXT Project.</p><p>Reachable via IRC #openxt: xtopher</p></ac:layout-cell></ac:layout-section><ac:layout-section ac:type=\"two_right_sidebar\"><ac:layout-cell><p><ac:structured-macro ac:macro-id=\"a07e4864-ab23-470b-995a-6fa3d28a2379\" ac:name=\"recently-updated\" ac:schema-version=\"1\"></ac:structured-macro></p></ac:layout-cell><ac:layout-cell><h2>Navigate space</h2><p><ac:structured-macro ac:macro-id=\"6c23f220-9aac-4408-8286-39a6ca13e3af\" ac:name=\"pagetreesearch\" ac:schema-version=\"1\"></ac:structured-macro></p><p><ac:structured-macro ac:macro-id=\"c1f64f84-8b87-46ee-b42d-0dcd1afd2523\" ac:name=\"pagetree\" ac:schema-version=\"1\"></ac:structured-macro></p></ac:layout-cell></ac:layout-section><ac:layout-section ac:type=\"single\"><ac:layout-cell><p> </p></ac:layout-cell></ac:layout-section></ac:layout>",
-    "date": "2024-11-15",
-    "disclaimer": "Users of this benchmark dataset are advised to check Atlassian’s official documentation for the most current information.",
-    "space": "~cclark"
-}

@@ -1,9 +1,0 @@
-{
-    "id": "confluence-211",
-    "title": "How-to articles",
-    "url": "https://openxt.atlassian.net/wiki/spaces/BS/pages/19988482/How-to+articles",
-    "content": "<p>Owned by Adam Oliver\nLast updated: Dec 30, 2015 by Adam Oliver\n\n</p><p style=\"text-align: right;\"><ac:structured-macro ac:macro-id=\"a6cab591-1ca1-4acf-ab22-58bcbd8bb33d\" ac:name=\"create-from-template\" ac:schema-version=\"1\"><ac:parameter ac:name=\"contentBlueprintId\">ba16a38c-9086-4a4f-84d3-784457ae9caf</ac:parameter><ac:parameter ac:name=\"blueprintModuleCompleteKey\">com.atlassian.confluence.plugins.confluence-knowledge-base:kb-how-to-article-blueprint</ac:parameter><ac:parameter ac:name=\"createButtonLabel\">Add how-to article</ac:parameter></ac:structured-macro></p><hr/><p><ac:structured-macro ac:macro-id=\"0c50d66d-4117-4bfa-add2-71027b2ebd0b\" ac:name=\"content-report-table\" ac:schema-version=\"1\"><ac:parameter ac:name=\"contentBlueprintId\">ba16a38c-9086-4a4f-84d3-784457ae9caf</ac:parameter><ac:parameter ac:name=\"blueprintModuleCompleteKey\">com.atlassian.confluence.plugins.confluence-knowledge-base:kb-how-to-article-blueprint</ac:parameter><ac:parameter ac:name=\"analyticsKey\">kb-how-to-article</ac:parameter><ac:parameter ac:name=\"blankDescription\">Provide step-by-step guidance for completing a task.</ac:parameter><ac:parameter ac:name=\"blankTitle\">How-to article</ac:parameter><ac:parameter ac:name=\"spaces\"><ri:space ri:space-key=\"BS\"></ri:space></ac:parameter><ac:parameter ac:name=\"createButtonLabel\">Add how-to article</ac:parameter><ac:parameter ac:name=\"labels\">kb-how-to-article</ac:parameter></ac:structured-macro></p>",
-    "date": "2024-11-15",
-    "disclaimer": "Users of this benchmark dataset are advised to check Atlassian’s official documentation for the most current information.",
-    "space": "BS"
-}

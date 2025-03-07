@@ -1,9 +1,0 @@
-{
-    "id": "confluence-100",
-    "title": "SELinux",
-    "url": "https://openxt.atlassian.net/wiki/spaces/DC/pages/26214405/SELinux",
-    "content": "<p>Owned by Ross Philipson\nLast updated: Mar 05, 2016 by Ross Philipson\n\n</p><p>Top level page for SELinux related documents and specifications for the OpenXT platform.</p>",
-    "date": "2024-11-15",
-    "disclaimer": "Users of this benchmark dataset are advised to check Atlassian’s official documentation for the most current information.",
-    "space": "DC"
-}

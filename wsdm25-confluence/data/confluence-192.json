@@ -1,9 +1,0 @@
-{
-    "id": "confluence-192",
-    "title": "OpenXT Build System",
-    "url": "https://openxt.atlassian.net/wiki/spaces/BS/pages/14843921/OpenXT+Build+System",
-    "content": "<p>Owned by Ross Philipson\nLast updated: Sep 25, 2015 by Ross Philipson\n\n</p><p>Among other things, OpenXT is a distro based on the <a href=\"http://www.openembedded.org/wiki/Main_Page\">OpenEmbedded</a> build framework. The basic build documentation can be found in the <a href=\"https://openxt.atlassian.net/wiki/display/OD/How+to+build+OpenXT\">How to build OpenXT</a> page. This space is for more in depth technical information on the build system.</p>",
-    "date": "2024-11-15",
-    "disclaimer": "Users of this benchmark dataset are advised to check Atlassian’s official documentation for the most current information.",
-    "space": "BS"
-}

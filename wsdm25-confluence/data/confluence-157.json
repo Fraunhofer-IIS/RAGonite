@@ -1,9 +1,0 @@
-{
-    "id": "confluence-157",
-    "title": "OpenXT 7.x Builds",
-    "url": "https://openxt.atlassian.net/wiki/spaces/OD/pages/96567309/OpenXT+7.x+Builds",
-    "content": "<p>Owned by Rich Persaud\nLast updated: Oct 19, 2017 by Rich Persaud\n\n</p><p><br/></p><p><ac:structured-macro ac:macro-id=\"147b6fe7-542d-4f74-8c7e-e38f2fccc6c7\" ac:name=\"toc\" ac:schema-version=\"1\"><ac:parameter ac:name=\"outline\">true</ac:parameter></ac:structured-macro></p><h1>Assured Information Security</h1><h2>OpenXT 7.x</h2><h3>Build Configuration</h3><table><colgroup><col/><col/><col/><col/></colgroup><tbody><tr><th>Default Components</th><th>Y/N</th><th>Optional Components</th><th>Y/N</th></tr><tr><td>Ocaml db</td><td>Yes</td><td>Qt dbd</td><td>No</td></tr><tr><td>OpenSSL</td><td>Yes</td><td>LibreSSL</td><td>No</td></tr><tr><td>Container build</td><td>Yes</td><td>Debian Wheezy Build</td><td>No</td></tr></tbody></table><h3>Build Locations</h3><table><colgroup><col/><col/><col/><col/></colgroup><tbody><tr><th>Version</th><th>Test</th><th colspan=\"1\">Download</th><th>Notes</th></tr><tr><td>7.0.0 nightly</td><td><ac:link><ri:page ri:content-title=\"OpenXT 7.0 Hardware Testing\" ri:space-key=\"TEST\" ri:version-at-save=\"10\"></ri:page></ac:link></td><td colspan=\"1\"><a href=\"http://openxt.ainfosec.com/builds/regular/stable-7/\">http://openxt.ainfosec.com/builds/regular/stable-7/</a></td><td>Xen 4.6</td></tr></tbody></table><p class=\"auto-cursor-target\"><br/></p><p><br/></p>",
-    "date": "2024-11-15",
-    "disclaimer": "Users of this benchmark dataset are advised to check Atlassian’s official documentation for the most current information.",
-    "space": "OD"
-}
