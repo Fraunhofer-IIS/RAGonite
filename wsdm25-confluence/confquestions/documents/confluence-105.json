@@ -1,0 +1,9 @@
+{
+    "id": "confluence-105",
+    "title": "File lists",
+    "url": "https://openxt.atlassian.net/wiki/spaces/TEST/pages/12451848/File+lists",
+    "content": "<p>Owned by Carl Weissler\nLast updated: Aug 05, 2015 by Carl Weissler\n\n</p><p style=\"text-align: right;\"><ac:structured-macro ac:macro-id=\"04442f36-1e85-432b-b747-7da0a3eead69\" ac:name=\"create-from-template\" ac:schema-version=\"1\"><ac:parameter ac:name=\"contentBlueprintId\">64f066a2-da7a-4b10-a00c-71f7ac027d26</ac:parameter><ac:parameter ac:name=\"blueprintModuleCompleteKey\">com.atlassian.confluence.plugins.confluence-business-blueprints:file-list-blueprint</ac:parameter><ac:parameter ac:name=\"createButtonLabel\">Create file list</ac:parameter></ac:structured-macro></p><hr/><p><ac:structured-macro ac:macro-id=\"ea283abd-2ee2-4542-9255-7db019eee718\" ac:name=\"content-report-table\" ac:schema-version=\"1\"><ac:parameter ac:name=\"contentBlueprintId\">64f066a2-da7a-4b10-a00c-71f7ac027d26</ac:parameter><ac:parameter ac:name=\"blueprintModuleCompleteKey\">com.atlassian.confluence.plugins.confluence-business-blueprints:file-list-blueprint</ac:parameter><ac:parameter ac:name=\"analyticsKey\">file-list</ac:parameter><ac:parameter ac:name=\"blankDescription\">Upload, preview and share files with your team.</ac:parameter><ac:parameter ac:name=\"blankTitle\">File lists</ac:parameter><ac:parameter ac:name=\"spaces\"><ri:space ri:space-key=\"Validation\"></ri:space></ac:parameter><ac:parameter ac:name=\"createButtonLabel\">Create file list</ac:parameter><ac:parameter ac:name=\"labels\">file-list</ac:parameter></ac:structured-macro></p>",
+    "date": "2024-11-15",
+    "disclaimer": "Users of this benchmark dataset are advised to check Atlassian’s official documentation for the most current information.",
+    "space": "TEST"
+}

@@ -1,0 +1,9 @@
+{
+    "id": "confluence-158",
+    "title": "Outstanding build issues",
+    "url": "https://openxt.atlassian.net/wiki/spaces/DC/pages/35684367/Outstanding+build+issues",
+    "content": "<p>Owned by Chris Rogers\nLast updated: May 04, 2016 by Chris Rogers\n\n</p><p>flask-enforcement disable</p><p>selinux permissive</p><p>/var/*/xen directories</p><p>/etc/xen/xl.conf</p><p>change iso in templates from file → raw</p><p>xl still needs script in /usr/lib/xen/bin/qemu-system-i386:</p><p>#!/bin/bash</p><p>/usr/bin/qemu-system-i386 $@</p>",
+    "date": "2024-11-15",
+    "disclaimer": "Users of this benchmark dataset are advised to check Atlassian’s official documentation for the most current information.",
+    "space": "DC"
+}

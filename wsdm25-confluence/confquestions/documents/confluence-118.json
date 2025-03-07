@@ -1,0 +1,9 @@
+{
+    "id": "confluence-118",
+    "title": "Section 1:  BIOS Configuration",
+    "url": "https://openxt.atlassian.net/wiki/spaces/TEST/pages/7864324/Section+1:++BIOS+Configuration",
+    "content": "<p>Owned by Carl Weissler\nLast updated: Aug 03, 2015 by Carl Weissler\n\n</p><p><u>Prerequisites:</u></p><p>1.  Ensure the latest version (or version under test) of OpenXT with Tools is available on CD/DVD.</p><p>2.  Ensure a netboot server with the appropriate files is available.</p><p>3.  Ensure the system under test has at least two graphics cards (including the onboard).</p><p>4.  Ensure there is a USB device available for testing.</p><p> </p><p><u>Virtualization Technologies</u></p><p>1.1)  Enable Intel VT-x</p><p>1.2)  Enable Intel VT-d</p><p>1.3)  Enable Intel TXT</p><p> </p><p><u>Other Actions</u></p><p>Intel Integrated Graphics (if present)</p><p>1.4)  Enable IGFX</p><p>1.5)  Set IGFX as primary display device</p><p>1.6)  Set SATA Mode to AHCI</p><p> </p><p><u>TPM Actions</u></p><p>1.7)  Clear TPM</p><p>1.8)  Enable TPM</p><p>1.9)  Activate TPM</p><p>Author: tshanahan Date: 2015-06-02T20:11:07.894Z Comment: Carl - with the Q77 we disabled the Intel AMT function and set the Boot Mode Selection to Legacy only, are those required for this?</p><p>Author: Kevin Pearson Date: 2015-07-29T14:18:37.818Z Comment: The AMT is not an OpenXT-specific configurability option (in fact some OpenXT environments actively use it) but currently the Legacy/CSM boot option is. I'll add that here.</p>",
+    "date": "2024-11-15",
+    "disclaimer": "Users of this benchmark dataset are advised to check Atlassian’s official documentation for the most current information.",
+    "space": "TEST"
+}

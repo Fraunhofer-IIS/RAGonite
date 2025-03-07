@@ -1,0 +1,9 @@
+{
+    "id": "confluence-202",
+    "title": "Testing, Validation and Troubleshooting",
+    "url": "https://openxt.atlassian.net/wiki/spaces/TEST/pages/13795337/Testing,+Validation+and+Troubleshooting",
+    "content": "<p>Owned by Ross Philipson\nLast updated: Sep 29, 2015 by Ross Philipson\n\n</p><ac:layout><ac:layout-section ac:type=\"single\"><ac:layout-cell><p>Top level space for all things testing related. There may be several ways to make things hierarchical from this point. For example splitting up page trees for automated, manual and specific task test. This is just a starting point...</p><p> </p></ac:layout-cell></ac:layout-section><ac:layout-section ac:type=\"two_equal\"><ac:layout-cell><h2>Recent space activity</h2><p><ac:structured-macro ac:macro-id=\"6a95b3d0-2a76-43f2-9575-0f800025aded\" ac:name=\"recently-updated\" ac:schema-version=\"1\"><ac:parameter ac:name=\"types\">page, comment, blogpost</ac:parameter><ac:parameter ac:name=\"max\">5</ac:parameter><ac:parameter ac:name=\"hideHeading\">true</ac:parameter><ac:parameter ac:name=\"theme\">social</ac:parameter></ac:structured-macro></p></ac:layout-cell><ac:layout-cell><h2>Space contributors</h2><p><ac:structured-macro ac:macro-id=\"baf7d5c4-33a3-46ad-bee4-48e11c177cba\" ac:name=\"contributors\" ac:schema-version=\"1\"><ac:parameter ac:name=\"mode\">list</ac:parameter><ac:parameter ac:name=\"scope\">descendants</ac:parameter><ac:parameter ac:name=\"limit\">5</ac:parameter><ac:parameter ac:name=\"showLastTime\">true</ac:parameter><ac:parameter ac:name=\"order\">update</ac:parameter></ac:structured-macro></p></ac:layout-cell></ac:layout-section><ac:layout-section ac:type=\"single\"><ac:layout-cell><p> </p></ac:layout-cell></ac:layout-section></ac:layout>",
+    "date": "2024-11-15",
+    "disclaimer": "Users of this benchmark dataset are advised to check Atlassian’s official documentation for the most current information.",
+    "space": "TEST"
+}
