@@ -4,7 +4,7 @@
 - Data: [data/](data/)
 - Poster: [artifacts/poster-btw.pdf](artifacts/poster-btw.pdf)
 - Slides: [artifacts/slides-btw.pdf](artifacts/slides-btw.pdf)
-- Demo video: https://vimeo.com/1062545380/fa52d04c8b?share=copy
+- Demo video: https://vimeo.com/1063623916/fe9e6378c2?share=copy
 - Screenshots: [artifacts/screenshots](artifacts/screenshots/)
 - Manuscript: https://arxiv.org/abs/2412.17690
 
