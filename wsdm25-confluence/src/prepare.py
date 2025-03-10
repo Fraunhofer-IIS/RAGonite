@@ -32,7 +32,7 @@ def fetch_documents_from_folder(folder_path: Path) -> List[WebDocument]:
 def prepare(
     multi_modal_config: MultiModalConfig,
     out_dir: Path = Path("out/confluence-openxt"),
-    input_folder: Path = Path("data"),
+    input_folder: Path = Path("confquestions/documents"),
 ):
     embedded_documents_file = Path(out_dir / "embedded_documents.npy")
 
