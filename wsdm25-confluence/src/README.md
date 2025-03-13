@@ -1,9 +1,5 @@
 # WSDM25 Confluence
 
-The code here is not exactly RAGonite code that we use in our organization
-(cannot be released due to policy),
-but a proxy that mimics its basic functionalities.
-
 ## 🚀 Installation
 From the root directory `wsdm25-confluence`, run:
 ```bash
@@ -34,3 +30,5 @@ Launch the RAG-based chatbot:
 ```bash
 python src/start_rag.py
 ```
+Disclaimer: The code here is not exactly RAGonite code that we use in our organization (which cannot be released due to policy), but rather a close proxy
+that mimics RAGonite's basic functionalities.
